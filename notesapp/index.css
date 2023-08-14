@@ -1,0 +1,28 @@
+ body{
+    /* background: goldenrod; */
+    color: black;
+ }
+
+.container{
+width: 600px;
+height : 600px;
+ background : rgb(172, 171, 171);
+
+ }
+ img{
+    width:30px;
+    height:30px;
+margin-left : 500px;
+margin-top: 20px;
+ }
+.notes-container{
+    background  : yellow;
+
+}
+
+p{
+    margin:20px;
+    padding:20px;
+    border:2px solid white;
+
+}
